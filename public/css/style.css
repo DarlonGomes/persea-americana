@@ -44,6 +44,9 @@ body {
   height: 100%;
 }
 
+.navbar .logo{
+  display: flex;
+}
 .navbar .logo img {
   position: relative;
   top: 3px;
