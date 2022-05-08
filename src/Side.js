@@ -4,10 +4,9 @@ import SuggestMenu from "./Suggestions"
 export default function Sidebar(){
     return(
         <div class="sidebar">
-          <User />
+          <User url="assets/img/catanacomics.svg" alt="Perfil do usuário: catanacomics" name="catanacomics" info="Catana"/>
           <SuggestMenu />
           <Info />
         </div>
-      
     )
 }

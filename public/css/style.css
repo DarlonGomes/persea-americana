@@ -193,7 +193,9 @@ body {
   padding: 13px 16px;
   font-size: 24px;
 }
-
+.post .fundo .acoes .like{
+color: red;
+}
 .post .fundo .acoes div:first-child ion-icon {
   margin-right: 6px;
 }
